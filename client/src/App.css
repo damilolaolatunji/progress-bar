@@ -1,0 +1,10 @@
+.App {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.progress-text {
+  display: block;
+  font-size: 16px;
+  margin-top: 20px;
+}
