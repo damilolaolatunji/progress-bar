@@ -1,6 +1,6 @@
 # Realtime Progress Bar
 
-Demo of a realtime progress bar with React and Pusher. Article:
+Demo of a realtime progress bar with React and Pusher. Article: https://pusher.com/tutorials/live-progress-react
 
 ## Getting Started
 
